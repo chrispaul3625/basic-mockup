@@ -43,16 +43,22 @@ body { width: 100%;}
 
 img.pull-left {
 	float: left;
+	margin: 2%;
 }
 img.pull-right {
 	float: right;
+	margin: 2%;
+	border: white;
 }
 
-h1 {
-	background-color: cornflowerblue;
+
+header {
+	background-color: lightskyblue;
+	padding:1%;
 }
 section {
-	background-color: cornflowerblue;
+	background-color: lightskyblue;
+	padding: 3%;
 }
 
 footer {
@@ -63,16 +69,21 @@ footer {
 	color: gray;
 }
 footer{
-	margin-bottom: 3%;
+	margin-bottom: 4%;
+	font-style: italic;
 }
 body {
 	align-content: center;
 	margin-inside: 5%;
+	text-align: justify;
 }
 body {
-	zoom: 85%;
+	zoom: 70%;
 }
 
 .instructions {
 	border: lightgrey solid;
+}
+html {
+	align-content: center;
 }
