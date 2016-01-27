@@ -40,3 +40,39 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
+
+img.pull-left {
+	float: left;
+}
+img.pull-right {
+	float: right;
+}
+
+h1 {
+	background-color: cornflowerblue;
+}
+section {
+	background-color: cornflowerblue;
+}
+
+footer {
+	background-color: black;
+}
+
+footer {
+	color: gray;
+}
+footer{
+	margin-bottom: 3%;
+}
+body {
+	align-content: center;
+	margin-inside: 5%;
+}
+body {
+	zoom: 85%;
+}
+
+.instructions {
+	border: lightgrey solid;
+}
