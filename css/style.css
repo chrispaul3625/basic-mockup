@@ -43,12 +43,13 @@ body { width: 100%;}
 
 img.pull-left {
 	float: left;
-	margin: 2%;
+	padding: .5%;
 }
 img.pull-right {
 	float: right;
 	margin: 2%;
-	border: white;
+	border: white solid;
+
 }
 
 
@@ -74,8 +75,9 @@ footer{
 }
 body {
 	align-content: center;
-	margin-inside: 5%;
-	text-align: justify;
+	margin-inside: 10%;
+	padding: 1%;
+	text-align: inherit;
 }
 body {
 	zoom: 70%;
@@ -83,6 +85,7 @@ body {
 
 .instructions {
 	border: lightgrey solid;
+	margin: .75%;
 }
 html {
 	align-content: center;
